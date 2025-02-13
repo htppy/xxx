@@ -80,47 +80,57 @@ Voting:
 Distribution:
   Neurons:
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "25_000_000 tokens"
+      stake: "20_000_000 tokens"
       memo: 0
       dissolve_delay: "3 months"
       vesting_period: "3 months"
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "25_000_000 tokens"
+      stake: "20_000_000 tokens"
       memo: 1
       dissolve_delay: "3 months"
       vesting_period: "6 months"
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "25_000_000 tokens"
+      stake: "20_000_000 tokens"
       memo: 2
       dissolve_delay: "3 months"
       vesting_period: "9 months"
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "25_000_000 tokens"
-      memo: 2
+      stake: "20_000_000 tokens"
+      memo: 3
       dissolve_delay: "3 months"
       vesting_period: "12 months"
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "25_000_000 tokens"
-      memo: 3
+      stake: "20_000_000 tokens"
+      memo: 4
       dissolve_delay: "3 months"
       vesting_period: "15 months"
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "25_000_000 tokens"
-      memo: 3
+      stake: "20_000_000 tokens"
+      memo: 5
       dissolve_delay: "3 months"
       vesting_period: "18 months"
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "25_000_000 tokens"
-      memo: 3
+      stake: "20_000_000 tokens"
+      memo: 6
       dissolve_delay: "3 months"
       vesting_period: "21 months"
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "25_000_000 tokens"
-      memo: 3
+      stake: "20_000_000 tokens"
+      memo: 7
       dissolve_delay: "3 months"
       vesting_period: "24 months"    
+    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
+      stake: "20_000_000 tokens"
+      memo: 8
+      dissolve_delay: "3 months"
+      vesting_period: "27 months"    
+    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
+      stake: "20_000_000 tokens"
+      memo: 9
+      dissolve_delay: "3 months"
+      vesting_period: "30 months"  
 
-  
+
   InitialBalances:
     governance: 580_000_000 tokens
     swap: 220_000_000 tokens
