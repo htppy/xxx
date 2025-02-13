@@ -70,7 +70,7 @@ Voting:
       bonus: 100%
     Age:
       duration: 12 months
-      bonus: 20%
+      bonus: 25%
 
   RewardRate:
     initial: 2.5%
