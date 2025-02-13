@@ -38,18 +38,18 @@ NnsProposal:
 
 
 fallback_controller_principals:
-  - veab3-45yfd-pm37n-tiqkb-ntu3p-hgitu-qgduf-xcgap-s43l7-dla3c-qqe
+  - 【】veab3-45yfd-pm37n-tiqkb-ntu3p-hgitu-qgduf-xcgap-s43l7-dla3c-qqe
 
 dapp_canisters:
-  - sf467-nyaaa-aaaae-qajpq-cai
-  - xzhe2-gqaaa-aaaae-qajqa-cai
-  - x6gco-liaaa-aaaae-qajqq-cai
-  - wpm4r-taaaa-aaaae-qajva-cai
+  - 【】sf467-nyaaa-aaaae-qajpq-cai
+  - 【】xzhe2-gqaaa-aaaae-qajqa-cai
+  - 【】x6gco-liaaa-aaaae-qajqq-cai
+  - 【】wpm4r-taaaa-aaaae-qajva-cai
 
 Token:
   name: ICPExchange
   symbol: ICPX
-  transaction_fee: 1_000_000 e8s
+  transaction_fee: 100_000 e8s
   logo: logo.png
 
 Proposals:
@@ -72,7 +72,7 @@ Voting:
       bonus: 20%
 
   RewardRate:
-    initial: 1%
+    initial: 0.5%
     final: 0.5%
     transition_duration: 1 year
 
@@ -80,65 +80,57 @@ Voting:
 Distribution:
   Neurons:
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "11_111_111 tokens"
+      stake: "25_000_0000 tokens"
       memo: 0
-      dissolve_delay: "60 months"
-      vesting_period: "0"
-    - principal: "fuztx-kap5l-vlptr-rjz2z-gvuag-crt3p-tpr2b-pmpkx-zznhj-l4lof-bqe"
-      stake: "11_111_111 tokens"
+      dissolve_delay: "3 months"
+      vesting_period: "3 months"
+    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
+      stake: "25_000_0000 tokens"
       memo: 1
-      dissolve_delay: "36 months"
-      vesting_period: "0"
-    - principal: "fuztx-kap5l-vlptr-rjz2z-gvuag-crt3p-tpr2b-pmpkx-zznhj-l4lof-bqe"
-      stake: "11_111_112 tokens"
+      dissolve_delay: "3 months"
+      vesting_period: "6 months"
+    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
+      stake: "25_000_0000 tokens"
       memo: 2
-      dissolve_delay: "12 months"
-      vesting_period: "0"
-
-    - principal: "offdx-wvvgg-wwadt-rxmgd-nccoc-ud2po-pnmnn-y5l3s-xkbql-fgudk-kae"
-      stake: "11_111_111 tokens"
-      memo: 0
-      dissolve_delay: "60 months"
-      vesting_period: "0"
-    - principal: "offdx-wvvgg-wwadt-rxmgd-nccoc-ud2po-pnmnn-y5l3s-xkbql-fgudk-kae"
-      stake: "11_111_111 tokens"
-      memo: 1
-      dissolve_delay: "36 months"
-      vesting_period: "0"
-    - principal: "offdx-wvvgg-wwadt-rxmgd-nccoc-ud2po-pnmnn-y5l3s-xkbql-fgudk-kae"
-      stake: "11_111_111 tokens"
+      dissolve_delay: "3 months"
+      vesting_period: "9 months"
+    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
+      stake: "25_000_0000 tokens"
       memo: 2
-      dissolve_delay: "12 months"
-      vesting_period: "0"
-
-    - principal: "mm7ts-rqsju-jj4ri-hcfzm-bpldf-5zkvw-s3q44-7je4d-nz4fm-75d46-xqe"
-      stake: "11_111_111 tokens"
-      memo: 0
-      dissolve_delay: "60 months"
-      vesting_period: "0"
-    - principal: "mm7ts-rqsju-jj4ri-hcfzm-bpldf-5zkvw-s3q44-7je4d-nz4fm-75d46-xqe"
-      stake: "11_111_111 tokens"
-      memo: 1
-      dissolve_delay: "36 months"
-      vesting_period: "0"
-    - principal: "mm7ts-rqsju-jj4ri-hcfzm-bpldf-5zkvw-s3q44-7je4d-nz4fm-75d46-xqe"
-      stake: "11_111_111 tokens"
-      memo: 2
-      dissolve_delay: "12 months"
-      vesting_period: "0"
-               
+      dissolve_delay: "3 months"
+      vesting_period: "12 months"
+    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
+      stake: "25_000_0000 tokens"
+      memo: 3
+      dissolve_delay: "3 months"
+      vesting_period: "15 months"
+    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
+      stake: "25_000_0000 tokens"
+      memo: 3
+      dissolve_delay: "3 months"
+      vesting_period: "18 months"
+    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
+      stake: "25_000_0000 tokens"
+      memo: 3
+      dissolve_delay: "3 months"
+      vesting_period: "21 months"
+    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
+      stake: "25_000_0000 tokens"
+      memo: 3
+      dissolve_delay: "3 months"
+      vesting_period: "24 months"    
   InitialBalances:
-    governance: 500_000_000 tokens
-    swap: 400_000_000 tokens
+    governance: 580_000_000 tokens
+    swap: 220_000_000 tokens
 
   total: 1_000_000_000 tokens
 
 Swap:
   minimum_participants: 100
-  minimum_direct_participation_icp: 30_000 tokens
-  maximum_direct_participation_icp: 120_000 tokens
+  minimum_direct_participation_icp: 10_000 tokens
+  maximum_direct_participation_icp: 1_000_000 tokens
   minimum_participant_icp: 1 tokens
-  maximum_participant_icp: 50_000 tokens
+  maximum_participant_icp: 100_000 tokens
 
   restricted_countries:
     - AF
@@ -173,8 +165,8 @@ Swap:
     I confirm my understanding of the responsibilities and risks associated with participating in this token swap.
 
   VestingSchedule:
-    events: 4
-    interval: 4 months
+    events: 3
+    interval: 3 months
 
   duration: 10 days
 
