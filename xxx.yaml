@@ -83,7 +83,7 @@ Distribution:
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
       stake: "15_000_000 tokens"
       memo: 0
-      dissolve_delay: "3 months"
+      dissolve_delay: "1 months"
       vesting_period: "3 months"
     - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
       stake: "15_000_000 tokens"
