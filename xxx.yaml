@@ -1,35 +1,35 @@
-name: IC Explorer
+name: ICPexchange
 
 description: >
-    IC Explorer is an ICP explorer hosted on the Internet Computer that aspires to become the leading on-chain AI data factory in the blockchain ecosystem. We are integrating data from the ICP blockchain, other Web3, and Web2 sources to create a unified, highly scalable analytics platform. This fusion of diverse datasets allows users to seamlessly access, analyze, and query blockchain data in real time.
-
+    tbc
+    
 logo: logo.png
 
-url: https://icexplorer.io
+url: https://icpex.org/
 
 NnsProposal:
-  title: "NNS Proposal to create an SNS named 'ICExplorer'"
-  url: https://forum.dfinity.org/t/upcoming-icexplorer-sns-decentralization-sale/40620
+  title: "NNS Proposal to create an SNS named 'ICPExchange'"
+  url: tbc
 
   summary: |
     # Summary
-    Proposal to create an SNS DAO for ICExplorer.
+    Proposal to create an SNS DAO for ICPExchang.
 
     # Overview  
     This proposal is for the creation of the IC Explorer SNS DAO, which will be used to manage and control all IC Explorer DApps and on-chain data through the DAO!
   
     ## Token distribution
     - Total Supply: 1,000,000,000 - 1 Billion
-    - ICExplorer SNS DAO: 500,000,000 -  50%
-    - SNS Swap: 400,000,000 -  40%
-    - Development Team: 100,000,000 - 10%
-    - The Ledger Transaction fee is 0.1 ICE
+    - Decentralized Swap: 220,000,000 -  22%
+    - Developer Team: 200,000,000 -  20%
+    - Treasury: 580,000,000 - 58%
+    - The Ledger Transaction fee is 0.001 ICPX
 
     ## SNS SWAP:
     - Min participation - 1 ICP
     - Min participants - 100
-    - Min to be raised - 30,000 ICP
-    - Max to be raised - 120,000 ICP
+    - Min to be raised - 10,000 ICP
+    - Max to be raised - 1,000,000 ICP
 
     ## Learn more:
     Whitepaper: https://icexplorer.gitbook.io/icexplorer
@@ -47,9 +47,9 @@ dapp_canisters:
   - wpm4r-taaaa-aaaae-qajva-cai
 
 Token:
-  name: ICExplorer
-  symbol: ICE
-  transaction_fee: 100_000 e8s
+  name: ICPExchange
+  symbol: ICPX
+  transaction_fee: 1_000_000 e8s
   logo: logo.png
 
 Proposals:
@@ -65,21 +65,21 @@ Voting:
 
   MaximumVotingPowerBonuses:
     DissolveDelay:
-      duration: 72 months
+      duration: 24 months
       bonus: 100%
     Age:
-      duration: 18 months
-      bonus: 25%
+      duration: 12 months
+      bonus: 20%
 
   RewardRate:
     initial: 1%
     final: 0.5%
-    transition_duration: 5 years
+    transition_duration: 1 year
 
 
 Distribution:
   Neurons:
-    - principal: "fuztx-kap5l-vlptr-rjz2z-gvuag-crt3p-tpr2b-pmpkx-zznhj-l4lof-bqe"
+    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
       stake: "11_111_111 tokens"
       memo: 0
       dissolve_delay: "60 months"
