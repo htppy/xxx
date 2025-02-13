@@ -49,7 +49,7 @@ dapp_canisters:
 
 Token:
   name: ICPExchange
-  symbol: ICPX
+  symbol: ICX
   transaction_fee: 100_000 e8s
   logo: logo.png
 
@@ -70,7 +70,7 @@ Voting:
       bonus: 100%
     Age:
       duration: 12 months
-      bonus: 25%
+      bonus: 20%
 
   RewardRate:
     initial: 2.5%
