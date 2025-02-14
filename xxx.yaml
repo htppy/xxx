@@ -1,7 +1,7 @@
 name: ICPexchange
 
 description: >
-    tbc
+    Decentralized liquidity network based on cross-chain and AI Agent.
     
 logo: logo.png
 
@@ -13,10 +13,10 @@ NnsProposal:
 
   summary: |
     # Summary
-    Proposal to create an SNS DAO for ICPExchang.
+    Proposal to create an SNS DAO for ICPExchange.
 
     # Overview  
-    This proposal is for the creation of the IC Explorer SNS DAO, which will be used to manage and control all IC Explorer DApps and on-chain data through the DAO!
+    This proposal is for the creation of the ICPExchange SNS DAO, which will be used to manage and control all ICPExchange DApps and on-chain data through the DAO!
   
     ## Token distribution
     - Total Supply: 1,000,000,000 - 1 Billion
