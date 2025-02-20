@@ -1,7 +1,7 @@
 name: ICPexchange
 
 description: >
-    Decentralized liquidity network based on cross-chain and AI Agent.
+    AI-Driven Decentralized Liquidity Network.
     
 logo: logo.png
 
@@ -29,13 +29,13 @@ NnsProposal:
     - Min participation - 1 ICP
     - Max participation - 10,000 ICP
     - Min participants - 100
-    - Min to be raised - 10,000 ICP
-    - Max to be raised - 200,000 ICP
+    - Min to be raised - 50,000 ICP
+    - Max to be raised - 300,000 ICP
 
     ## Learn more:
-    Whitepaper: https://icexplorer.gitbook.io/icexplorer
-    Github: https://github.com/Token-Explorer-Hi/ic-explorer-docs
-    Website: https://www.icexplorer.io/
+    Whitepaper: tbc
+    Github: https://github.com/ICPExLabs
+    Website: https://icpex.org/
 
 
 fallback_controller_principals:
@@ -80,46 +80,91 @@ Voting:
 
 Distribution:
   Neurons:
-    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "15_000_000 tokens"
+    - principal: "3j4os-i2zlk-n4yt4-q5dtx-apes5-c2rab-x6fbu-ox4cc-i6snz-gmmon-qae"
+      stake: "7_500_000 tokens"
       memo: 0
       dissolve_delay: "3 months"
       vesting_period: "3 months"
-    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "15_000_000 tokens"
+    - principal: "3j4os-i2zlk-n4yt4-q5dtx-apes5-c2rab-x6fbu-ox4cc-i6snz-gmmon-qae"
+      stake: "7_500_000 tokens"
       memo: 1
       dissolve_delay: "3 months"
       vesting_period: "6 months"
-    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "15_000_000 tokens"
+    - principal: "3j4os-i2zlk-n4yt4-q5dtx-apes5-c2rab-x6fbu-ox4cc-i6snz-gmmon-qae"
+      stake: "7_500_000 tokens"
       memo: 2
       dissolve_delay: "3 months"
       vesting_period: "9 months"
-    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "15_000_000 tokens"
+    - principal: "3j4os-i2zlk-n4yt4-q5dtx-apes5-c2rab-x6fbu-ox4cc-i6snz-gmmon-qae"
+      stake: "7_500_000 tokens"
       memo: 3
       dissolve_delay: "3 months"
       vesting_period: "12 months"
-    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "15_000_000 tokens"
+    - principal: "3j4os-i2zlk-n4yt4-q5dtx-apes5-c2rab-x6fbu-ox4cc-i6snz-gmmon-qae"
+      stake: "7_500_000 tokens"
       memo: 4
       dissolve_delay: "3 months"
       vesting_period: "15 months"
-    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "15_000_000 tokens"
+    - principal: "3j4os-i2zlk-n4yt4-q5dtx-apes5-c2rab-x6fbu-ox4cc-i6snz-gmmon-qae"
+      stake: "7_500_000 tokens"
       memo: 5
       dissolve_delay: "1 months"
       vesting_period: "18 months"
-    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "15_000_000 tokens"
+    - principal: "3j4os-i2zlk-n4yt4-q5dtx-apes5-c2rab-x6fbu-ox4cc-i6snz-gmmon-qae"
+      stake: "7_500_000 tokens"
       memo: 6
       dissolve_delay: "0 months"
       vesting_period: "21 months"
-    - principal: "u2mua-hutsj-fbuz6-gzqln-5gdpm-qokbb-okpcu-xvwdh-v7ur6-xle3z-mae"
-      stake: "15_000_000 tokens"
+    - principal: "3j4os-i2zlk-n4yt4-q5dtx-apes5-c2rab-x6fbu-ox4cc-i6snz-gmmon-qae"
+      stake: "7_500_000 tokens"
       memo: 7
       dissolve_delay: "0 months"
-      vesting_period: "24 months"    
+      vesting_period: "24 months"  
+    - principal: "5iodm-khwxp-mwhju-phwww-dfezb-zxsls-6f24u-7jqlt-r4vgs-2tpfd-nqe"
+      stake: "7_500_000 tokens"
+      memo: 8
+      dissolve_delay: "0 months"
+      vesting_period: "24 months" 
+    - principal: "5iodm-khwxp-mwhju-phwww-dfezb-zxsls-6f24u-7jqlt-r4vgs-2tpfd-nqe"
+      stake: "7_500_000 tokens"
+      memo: 9
+      dissolve_delay: "3 months"
+      vesting_period: "6 months"
+    - principal: "5iodm-khwxp-mwhju-phwww-dfezb-zxsls-6f24u-7jqlt-r4vgs-2tpfd-nqe"
+      stake: "7_500_000 tokens"
+      memo: 10
+      dissolve_delay: "3 months"
+      vesting_period: "9 months"
+    - principal: "5iodm-khwxp-mwhju-phwww-dfezb-zxsls-6f24u-7jqlt-r4vgs-2tpfd-nqe"
+      stake: "7_500_000 tokens"
+      memo: 11
+      dissolve_delay: "3 months"
+      vesting_period: "12 months"
+    - principal: "5iodm-khwxp-mwhju-phwww-dfezb-zxsls-6f24u-7jqlt-r4vgs-2tpfd-nqe"
+      stake: "7_500_000 tokens"
+      memo: 12
+      dissolve_delay: "3 months"
+      vesting_period: "15 months"
+    - principal: "5iodm-khwxp-mwhju-phwww-dfezb-zxsls-6f24u-7jqlt-r4vgs-2tpfd-nqe"
+      stake: "7_500_000 tokens"
+      memo: 13
+      dissolve_delay: "1 months"
+      vesting_period: "18 months"
+    - principal: "5iodm-khwxp-mwhju-phwww-dfezb-zxsls-6f24u-7jqlt-r4vgs-2tpfd-nqe"
+      stake: "7_500_000 tokens"
+      memo: 14
+      dissolve_delay: "0 months"
+      vesting_period: "21 months"
+    - principal: "5iodm-khwxp-mwhju-phwww-dfezb-zxsls-6f24u-7jqlt-r4vgs-2tpfd-nqe"
+      stake: "7_499_500 tokens"
+      memo: 15
+      dissolve_delay: "0 months"
+      vesting_period: "24 months"  
+    - principal: "2syez-xemia-zgz6u-cnotv-3yyub-33fpe-xwfvy-4q4kf-2asy3-kemr3-lqe"
+      stake: "500 tokens"
+      memo: 16
+      dissolve_delay: "0 months"
+      vesting_period: "0 months"  
 
 
   InitialBalances:
