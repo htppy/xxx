@@ -123,8 +123,8 @@ Distribution:
     - principal: "5iodm-khwxp-mwhju-phwww-dfezb-zxsls-6f24u-7jqlt-r4vgs-2tpfd-nqe"
       stake: "7_500_000 tokens"
       memo: 8
-      dissolve_delay: "0 months"
-      vesting_period: "24 months" 
+      dissolve_delay: "3 months"
+      vesting_period: "3 months" 
     - principal: "5iodm-khwxp-mwhju-phwww-dfezb-zxsls-6f24u-7jqlt-r4vgs-2tpfd-nqe"
       stake: "7_500_000 tokens"
       memo: 9
