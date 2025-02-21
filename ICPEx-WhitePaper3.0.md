@@ -127,9 +127,9 @@ The main technical architecture of ICPEx is divided into the following key modul
 * **Data Storage (Trading Canister):**  
   * Stores trading canister data to support the frontend dashboard.  
 * **AI Agent Module (Under Development)**  
-  * **Smart Trading Strategies:** (Under Development) Provides automated trading strategies to ensure optimal trade execution for users.  
-  * **Automated Arbitrage:** (Under Development) Monitors price discrepancies across liquidity pools and automatically executes arbitrage trades to improve returns and avoid market inefficiencies.  
-  * **Smart Asset Management:** (Under Development) Helps LPs maximize profits by dynamically adjusting capital pools and improving fund utilization.
+  * **Smart Trading Strategies:** Provides automated trading strategies to ensure optimal trade execution for users.  
+  * **Automated Arbitrage:** Monitors price discrepancies across liquidity pools and automatically executes arbitrage trades to improve returns and avoid market inefficiencies.  
+  * **Smart Asset Management:** Helps LPs maximize profits by dynamically adjusting capital pools and improving fund utilization.
 
 ICPEx, through its modular architecture design, combining decentralized liquidity management and AI agent technology, aims to build an efficient, secure, and scalable decentralized trading network, providing innovative liquidity solutions for the IC DeFi ecosystem. All core code has been audited by third-party auditing agencies to ensure smart contract security, offering users a trustworthy trading environment.
 
