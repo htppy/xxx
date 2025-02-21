@@ -8,7 +8,7 @@
 
 ICPEx (short for ICPExchange) is a fully on-chain decentralized exchange (DEX) based on the PMM (Proactive Market Maker) algorithm, aiming to become the decentralized finance (DeFi) hub for Web3. Empowered by AI agent technology, ICPEx is designed to provide users with a smarter and more efficient DeFi trading experience. Both the frontend and backend of ICPEx are deployed on IC (Internet Computer), offering efficient on-chain liquidity for Web3 asset trading, allowing every Web3 user to easily issue and trade assets.
 
-Since its launch in 2022, ICPEx has gradually developed into a crucial financial infrastructure within the IC ecosystem. Currently, its TVL (Total Value Locked) exceeds $250,000, with support for over 500 tokens and more than 3,000 active users. ICPEx remains highly active in community engagement, with its Twitter following surpassing 10,000, solidifying a strong user base and community consensus.
+Since its launch in 2022, ICPEx has gradually developed into a crucial financial infrastructure within the IC ecosystem. Currently, its TVL (Total Value Locked) exceeds $250,000, with support for over 800 tokens and more than 3,000 active users. ICPEx remains highly active in community engagement, with its Twitter following surpassing 10,000, solidifying a strong user base and community consensus.
 
 ### **1.2 Project Origin and Goals**
 
@@ -29,7 +29,7 @@ ICPEx aims to address these issues and, by leveraging AI agent technology, seeks
 * Transparent liquidity pool data, enabling users to easily access pool parameters and transaction data.  
 * A simplified interaction process, optimizing the user experience.  
 * A user-friendly token creation process, lowering the barrier to token issuance and fostering the long-tail market, thereby enriching the IC ecosystem.  
-* **Intelligent trading strategies powered by AI agents to enhance user profits.**
+* Intelligent trading strategies powered by AI agents to enhance user profits.
 
 **Specific Goals:**
 
@@ -84,7 +84,7 @@ ICPEx supports various types of liquidity pools to meet the needs of different a
 
 ICPEx is actively developing the AI Agent functionality, which will provide users with the following features in the future:
 
-* **Smart Trading Strategies:** Based on the **Anda framework**, AI analyzes on-chain data, market fluctuations, and historical trading behaviors to provide automated trading strategies that ensure optimal trade execution for users. The Anda framework ensures that the AI agents run on-chain while preserving the privacy of users' trading strategies via ICP’s technology.  
+* **Smart Trading Strategies:** Based on the Anda framework, AI analyzes on-chain data, market fluctuations, and historical trading behaviors to provide automated trading strategies that ensure optimal trade execution for users. The Anda framework ensures that the AI agents run on-chain while preserving the privacy of users' trading strategies via ICP’s technology.  
 * **Automated Arbitrage:** Based on the Anda framework, AI monitors price discrepancies across major liquidity pools and automatically executes arbitrage trades to improve returns and avoid market inefficiencies. The Anda framework ensures the AI agent safely records arbitrage execution on-chain, ensuring traceability and transparency of trades.  
 * **Smart Asset Management:** Leveraging the Anda framework, combined with liquidity mining, automated market making, and smart fund reallocation, the AI will assist liquidity providers (LPs) in maximizing profits and dynamically adjusting capital pools to improve fund utilization. The Anda framework ensures that asset management decisions are securely recorded on-chain while safeguarding users' asset data privacy.
 
@@ -152,8 +152,12 @@ ICPEx, a decentralized exchange (DEX) based on the IC, is committed to building 
   * Token holders can participate in protocol development decisions directly through SNS voting, enhancing governance transparency.  
   * Community members can collectively decide on important matters such as protocol parameters, feature upgrades, etc., ensuring that the protocol evolves in line with community interests.  
   * The SNS model will decentralize governance power, avoiding centralization risks and promoting long-term stable development of the protocol.
+### **5.2 Token Overview**
 
-### **5.2 Decentralization SNS Sale**
+  * Ticker: $ICX
+  * Total Supply: 1,000,000,000 tokens
+    
+### **5.3 Decentralization SNS Sale**
 
 | Allocation         | %    | Amount        | Note                                                         |
 | ------------------ | ---- | ------------- | ------------------------------------------------------------ |
@@ -163,7 +167,6 @@ ICPEx, a decentralized exchange (DEX) based on the IC, is committed to building 
 | **Total**          | 100% | 1,000,000,000 |    
 
 ### **5.3 Initial SNS Configuration**
-
 
 | Items                           | Numbers       |
 | ------------------------------- | ------------- |
@@ -190,9 +193,9 @@ As a decentralized liquidity network, ICPEx's token economic model will revolve 
 
 #### **5.4.1 Transaction Fee Allocation**
 
-* **Part of the transaction fee is destroyed** to reduce market liquidity and increase token scarcity.  
-* **Part of the transaction fee is used for buyback** to support token price stability and long-term value growth.  
-* **Flexible adjustment mechanism for handling fees**, dynamically optimized according to the market environment to ensure transaction experience and ecological sustainability.
+* Part of the transaction fee is destroyed to reduce market liquidity and increase token scarcity.  
+* Part of the transaction fee is used for buyback to support token price stability and long-term value growth.  
+* Flexible adjustment mechanism for handling fees, dynamically optimized according to the market environment to ensure transaction experience and ecological sustainability.
 
 #### **5.4.2 Liquidity incentives**
 
@@ -206,7 +209,7 @@ As a decentralized liquidity network, ICPEx's token economic model will revolve 
 * **Community decision-making power**, holders of $ICX can participate in the proposal and vote on the development direction of DEX to promote the ecological evolution.  
 * **Governance Rewards**, encouraging long-term holders and users to participate in governance, enhancing community consensus.
 
-Through the three value pillars of **transaction fee allocation, liquidity incentive and governance mechanism**, ICPEx ensures the core role of token $ICX in the ecology and builds a decentralized financial system with **long-term stability and sustainable growth**.
+Through the three value pillars of **transaction fee allocation, liquidity incentive and governance mechanism**, ICPEx ensures the core role of token $ICX in the ecology and builds a decentralized financial system with long-term stability and sustainable growth.
 
 ## **6\. ICPEx Development Roadmap (2025-2026)**
 
@@ -216,89 +219,89 @@ ICPEx's development goals for 2025 are to **Optimize trade execution efficiency*
 
 **Goals:**
 
-* **Reduce trade latency** and optimize Canister call logic to improve summarization speed.  
-* **Optimize order management** to reduce trade failure rate and improve user trading experience.  
-* **Adjust AMM model** to improve capital utilization and optimize market maker returns.
+* Reduce trade latency and optimize Canister call logic to improve summarization speed.  
+* Optimize order management to reduce trade failure rate and improve user trading experience.  
+* Adjust AMM model to improve capital utilization and optimize market maker returns.
 
 **Specific actions:**
 
 * **Trade Execution Optimization**  
-  * Redesign **Router Canister** to reduce the number of calls between subnets and improve summarization efficiency.  
-  * **Batch Summarize Orders** to reduce on-chain Gas costs and increase transaction throughput.  
-  * Realize **Partial Fulfillment Mechanism** to avoid order failure due to insufficient liquidity.  
+  * Redesign Router Canister to reduce the number of calls between subnets and improve summarization efficiency.  
+  * Batch Summarize Orders to reduce on-chain Gas costs and increase transaction throughput.  
+  * Realize Partial Fulfillment Mechanism to avoid order failure due to insufficient liquidity.  
 * **Liquidity optimization**  
-  * Introduced **Dynamic LP fund scheduling** to reduce invalid liquidity and improve pool utilization.  
-  * **Optimize AMM fund allocation mechanism** to improve fund utilization and reduce slippage.
+  * Introduced Dynamic LP fund scheduling to reduce invalid liquidity and improve pool utilization.  
+  * Optimize AMM fund allocation mechanism to improve fund utilization and reduce slippage.
 
 ### **6.2 June \- August 2025: intelligent trade routing to optimize LP returns**
 
 **Goals:**
 
-* **Smart order allocation** to provide users with optimal trade routing and increase fill rates.  
-* **Optimize LP funds management** to reduce Impermanent Loss.  
-* **New Anchor Pool Mechanism** for stable coins or synthetic assets to improve market stability.
+* Smart order allocation to provide users with optimal trade routing and increase fill rates.  
+* Optimize LP funds management to reduce Impermanent Loss.  
+* New Anchor Pool Mechanism for stable coins or synthetic assets to improve market stability.
 
 **Specific actions:**
 
 * **Smart Transaction Routing**  
-  * Developed **Liquidity aggregation algorithm** to automatically distribute transactions among multiple pools to improve transaction efficiency.  
-  * **Cross-pool aggregation mechanism** to intelligently match orders based on the funding of different liquidity pools to reduce slippage.  
+  * Developed Liquidity aggregation algorithm to automatically distribute transactions among multiple pools to improve transaction efficiency.  
+  * Cross-pool aggregation mechanism to intelligently match orders based on the funding of different liquidity pools to reduce slippage.  
 * **LP Funding Optimization**  
-  * **Dynamic Liquidity Adjustment**, AI automatically adjusts the allocation of assets in the pool to improve yield.  
-  * **Anchored Pool (Curve-like)** for stable coins, synthetic assets to reduce slippage on large transactions.
+  * Dynamic Liquidity Adjustment, AI automatically adjusts the allocation of assets in the pool to improve yield.  
+  * Anchored Pool (Curve-like) for stable coins, synthetic assets to reduce slippage on large transactions.
 
 ### **6.3 September \- November 2025: introduce AI agents to improve trading intelligence**
 
 **Goals:**
 
-* **AI trading strategies** that automatically optimize trade execution paths based on on-chain data.  
-* **Intelligent arbitrage strategy**, utilizing AI to monitor price differences and automatically execute arbitrage trades.  
-* **Optimize user trading experience**, reduce manual operations and allow AI agents to manage assets automatically.
+* AI trading strategies that automatically optimize trade execution paths based on on-chain data.  
+* Intelligent arbitrage strategy, utilizing AI to monitor price differences and automatically execute arbitrage trades.  
+* Optimize user trading experience, reduce manual operations and allow AI agents to manage assets automatically.
 
 **Specific actions:**
 
 * **AI Intelligent Trading**  
   * AI agents\*\* automatically determine market trends\*\*, optimize trade execution strategies, and increase win rates.  
-  * **Real-time prediction of market fluctuations** to reduce user losses due to market instability.  
+  * Real-time prediction of market fluctuations to reduce user losses due to market instability.  
 * **AI Arbitrage**  
-  * Monitor the price difference between **ICPEx internal pool** and **external decentralized exchanges** (e.g. Sonic, ICDex) to achieve low-cost arbitrage.  
-  * **Multi-path Arbitrage Execution** to optimize Gas costs and improve arbitrage success.
+  * Monitor the price difference between ICPEx internal pool and external decentralized exchanges (e.g. Sonic, ICDex) to achieve low-cost arbitrage.  
+  * Multi-path Arbitrage Execution to optimize Gas costs and improve arbitrage success.
 
 ### **6.4 December 2025 \- February 2026: Cross-chain liquidity consolidation to improve capital utilization**
 
 **Goals:**
 
-* **Support cross-chain redemption within the ICP ecosystem**, and open up liquidity between IC and other public chains.  
-* **Optimize the design of liquidity pool** to attract more LPs to participate and improve the utilization rate of funds.  
-* **Actualize AI intelligent fund scheduling** and dynamically adjust liquidity allocation according to market conditions.
+* Support cross-chain redemption within the ICP ecosystem and open up liquidity between IC and other public chains.  
+* Optimize the design of liquidity pool to attract more LPs to participate and improve the utilization rate of funds.  
+* Actualize AI intelligent fund scheduling and dynamically adjust liquidity allocation according to market conditions.
 
 **Specific actions:**
 
 * **Cross-chain transactions**  
-  * Utilize **Chain Key technology** to realize cross-chain flow of assets between ICP ecosystem and other chains (e.g. ETH, Solana).  
-  * **Supports automatic on-chain exchange** to reduce manual operations and improve cross-chain efficiency.  
+  * Utilize Chain Key technology to realize cross-chain flow of assets between ICP ecosystem and other chains (e.g. ETH, Solana).  
+  * Supports automatic on-chain exchange to reduce manual operations and improve cross-chain efficiency.  
 * **Liquidity Pool Optimization**  
-  * **Introduces multi-asset pool**, supports joint market making of multiple tokens and improves capital utilization.  
-  * **Automatically adjusts handling fees**, dynamically adjusts transaction rates according to market demand, and improves LP revenue.
+  * Introduces multi-asset pool, supports joint market making of multiple tokens and improves capital utilization.  
+  * Automatically adjusts handling fees, dynamically adjusts transaction rates according to market demand, and improves LP revenue.
 
 ### **6.5 March \- May 2026: Fully-automated AI trading system on line**
 
 **Goals:**
 
-* **Enable fully automated AI trading agent** where users do not need to operate manually and AI executes trades automatically.  
-* **Optimize AI trading strategies** to ensure capital safety and increase returns.  
-* **Improve AI asset management** to increase long-term investment returns.
+* Enable fully automated AI trading agent where users do not need to operate manually and AI executes trades automatically.  
+* Optimize AI trading strategies to ensure capital safety and increase returns.  
+* Improve AI asset management to increase long-term investment returns.
 
 **Specific actions:**
 
 * **AI trade optimization**  
-  * **AI agents automatically execute buy and sell trades**, reducing errors caused by manual trading.  
-  * **Dynamically adjusts trading strategies** to optimize trade timing based on market conditions.  
+  * AI agents automatically execute buy and sell trades, reducing errors caused by manual trading.  
+  * Dynamically adjusts trading strategies to optimize trade timing based on market conditions.  
 * **AI Asset Management**  
-  * **Combined with liquidity mining**, it automatically selects the optimal liquidity pool for LPs to increase returns.  
-  * **Intelligent fund redistribution** to reduce the waste of low-yield funds and improve overall fund utilization.
+  * Combined with liquidity mining, it automatically selects the optimal liquidity pool for LPs to increase returns.  
+  * Intelligent fund redistribution to reduce the waste of low-yield funds and improve overall fund utilization.
 
-In the next **15 months**, ICPEx will focus on the four core directions of **improving transaction speed, optimizing liquidity management, introducing AI proxy trading, and expanding cross-chain liquidity**, to ensure efficient operation of liquidity, fast and stable transaction execution, and ultimately build an **AI-Driven decentralized liquidity network.**
+In the next **15 months**, ICPEx will focus on the four core directions of improving transaction speed, optimizing liquidity management, introducing AI proxy trading, and expanding cross-chain liquidity, to ensure efficient operation of liquidity, fast and stable transaction execution, and ultimately build an **AI-Driven decentralized liquidity network.**
 
 ## **7\. Team** 
 
@@ -320,7 +323,7 @@ The team’s expertise spans smart contract development, on-chain trading system
   Alice is responsible for the frontend development of ICPEx's web platform, specializing in React and Web3.js. She aims to simplify complex on-chain trading logic into an easy-to-use interface, enabling users to execute trades with a single click without needing to learn intricate on-chain operations.  
 * **Sophia Lin \- Trading Strategy / Data Analysis**  
   Sophia has a background in on-chain data analysis and is deeply interested in trading patterns and arbitrage strategies. At ICPEx, she handles data analysis and trading strategy optimization, studying how to leverage AI agents to optimize trade paths, enhance liquidity utilization, and provide a better trading experience for ordinary users.  
-* **Daniel Wu \- Community & Operations**  
+* **Cora Wu \- Community & Operations**  
   Daniel is an early Web3 user with experience in various DeFi and NFT projects, making him highly familiar with community ecosystems. At ICPEx, he manages community operations and marketing, aiming to optimize the product through genuine user feedback rather than relying on PPT presentations and hollow slogans.  
 * **Eric Zhou \- Designer**  
   Eric is a minimalist designer who has worked on UI/UX design for several Web3 projects. He believes that a great DeFi product should not just be a trading tool but should provide users with real freedom and convenience. At ICPEx, Eric is in charge of interface design and user interaction optimization, ensuring that the product is not only functional but also intuitive and user-friendly.
