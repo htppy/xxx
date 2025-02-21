@@ -6,7 +6,7 @@
 
 ### **1.1 Redefining Decentralized Trading**
 
-ICPEx (short for ICPExchange) is a fully on-chain decentralized exchange (DEX) based on the PMM (Proactive Market Maker) algorithm, aiming to become the decentralized finance (DeFi) hub for Web3. Empowered by AI agent technology, ICPEx is designed to provide users with a smarter and more efficient DeFi trading experience. Both the frontend and backend of ICPEx are deployed on IC (Internet Computer), offering efficient on-chain liquidity for Web3 asset trading, allowing every Web3 user to easily issue and trade assets.
+ICPEx is a fully on-chain decentralized exchange (DEX) based on the PMM (Proactive Market Maker) algorithm, aiming to become the decentralized finance (DeFi) hub for Web3. Empowered by AI agent technology, ICPEx is designed to provide users with a smarter and more efficient DeFi trading experience. Both the frontend and backend of ICPEx are deployed on IC (Internet Computer), offering efficient on-chain liquidity for Web3 asset trading, allowing every Web3 user to easily issue and trade assets.
 
 Since its launch in 2022, ICPEx has gradually developed into a crucial financial infrastructure within the IC ecosystem. Currently, its TVL (Total Value Locked) exceeds $250,000, with support for over 800 tokens and more than 3,000 active users. ICPEx remains highly active in community engagement, with its Twitter following surpassing 10,000, solidifying a strong user base and community consensus.
 
