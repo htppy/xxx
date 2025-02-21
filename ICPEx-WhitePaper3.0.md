@@ -155,7 +155,12 @@ ICPEx, a decentralized exchange (DEX) based on the IC, is committed to building 
 
 ### **5.2 Decentralization SNS Sale**
 
-![][image2]
+| Allocation         | %    | Amount        | Note                                                         |
+| ------------------ | ---- | ------------- | ------------------------------------------------------------ |
+| Decentralized Swap | 15%  | 150,000,000   | Distributed to direct participants, dissolved at months 0, 3, and 6 with a 1-month dissolve delay |
+| Developer Neurons  | 12%  | 120,000,000   | Distributed to developers, dissolved at months 3, 6, 9, 12, 15, 18, 21, 24 with varying dissolve delays |
+| Treasury           | 73%  | 730,000,000   | Managed by SNS DAO governance for development, audit, CEX listing fees, hosting cycles, trading initiative rewards, partnership reserves, risk reserves, airdrops to users, etc. |
+| **Total**          | 100% | 1,000,000,000 |    
 
 ### **5.3 Initial SNS Configuration**
 
