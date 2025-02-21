@@ -92,7 +92,7 @@ ICPEx is actively developing the AI Agent functionality, which will provide user
 
 ### **3.1 Overview of the Technical Architecture**
 
-**![image-20250214161140398][image1]**
+![image-20250214161140398](https://p.ipic.vip/mhcd9p.png)
 
 ICPEx adopts a modular architecture design to ensure an efficient and scalable decentralized trading experience. The entire architecture focuses on three core needs: liquidity management, smart trading optimization, and on-chain interoperability, leveraging the computational power of the IC to achieve high throughput and low-cost on-chain transaction execution.
 
@@ -164,7 +164,25 @@ ICPEx, a decentralized exchange (DEX) based on the IC, is committed to building 
 
 ### **5.3 Initial SNS Configuration**
 
-![][image3]
+
+| Items                           | Numbers       |
+| ------------------------------- | ------------- |
+| Genesis $ICX Token Supply       | 1,000,000,000 |
+| Ledger Transaction Fee          | 0.001 ICX     |
+| Proposal Reject Fee             | 1000 ICX      |
+| Minimum Direct Fund             | 50,000 ICP    |
+| Maximal Direct Fund             | 300,000 ICP   |
+| Minimum Participation Fund      | 1 ICP         |
+| Maximal Participation Fund      | 100,000 ICP   |
+| Minimum Participants            | 100           |
+| Maximum Dissolve Delay          | 24 months     |
+| Dissolve Delay Bonus            | 100%          |
+| Maximum Neuron Age              | 12 months     |
+| Age Bonus                       | 20%           |
+| Minimum Creation Stake          | 10 ICX        |
+| Initial Reward Rate             | 2.50%         |
+| Final Reward Rate               | 0.1%          |
+| Reward Rate Transition Duration | 5 years       |
 
 ### **5.4 Token Utility and Value**
 
